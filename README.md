@@ -14,7 +14,7 @@ FlashX is a Python-based application that provides quick definitions and example
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/FlashX.git
+   git clone https://github.com/BarisFK/FlashX.git
    cd FlashX
    ```
 
